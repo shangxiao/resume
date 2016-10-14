@@ -2,7 +2,7 @@
 
 ## Employment History
 
-### Common Code: Senior Software Engineer
+### Common Code: One Stack Junior Shit Cunt
 
 Sept 2015 - present
 
