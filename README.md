@@ -29,7 +29,7 @@ Used various backend & frontend frameworks, libs & tools including:
  - Databases:
    - PostgreSQL, MySQL, SQL Server, Mongo
  - JavaScript
-   - Angular, Meteor
+   - React, Angular, Meteor
  - Mobile:
    - PhoneGap
  - Frontend:
@@ -62,3 +62,10 @@ to the open source community.
 ## Education
 
  - The University of Melbourne: Bachelor of Engineering (Software) 1998 - 2001
+
+## Example work
+
+All example work can either be found in my GitHub profile or any open source projects that I have contributed to for Common Code:
+
+ - GitHub profile: https://github.com/rapilabs
+ - "Djello", A Trello clone written in Django: https://github.com/commoncode/djello
