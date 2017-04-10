@@ -14,7 +14,7 @@ Postgres (and Celery and/or Redis if needed) and React, Redux, Bootstrap and SAS
 
 During my time at Common Code I worked as a lead/senior frontend & backend developer
 which meant being involved in the technology decision making process & teaching/mentoring
-juniour developers.
+junior developers.
 
 #### Key Technologies:
 
