@@ -12,6 +12,10 @@ sense of agility).  Typically we like to use our favourite components: Django wi
 Postgres (and Celery and/or Redis if needed) and React, Redux, Bootstrap and SASS
 (using BEM).
 
+During my time at Common Code I worked as a lead/senior frontend & backend developer
+which meant being involved in the technology decision making process & teaching/mentoring
+juniour developers.
+
 #### Key Technologies:
 
 React, Redux, Angular, Django, Hapi (Node), PostgreSQL, Celery, Redis, GraphQL, Relay, Bootstrap, SASS, BEM
@@ -19,6 +23,16 @@ React, Redux, Angular, Django, Hapi (Node), PostgreSQL, Celery, Redis, GraphQL, 
 ### Freelancing, various clients
 
 2011 - 2015
+
+During this period I chose to freelance in order to allow myself some time to try and write
+& sell my own products & services.  Although eventually unsuccessful at gaining any notable
+traction with my own products, I did have an interesting time working on a few different paid projects.
+
+The projects I worked on were either solo or in a small team.  I was responsible
+for being both a business analyst (requirements discovery & management with the client)
+and a software developer.
+
+#### Key Technologies:
 
 Used various backend & frontend frameworks, libs & tools including:
 
@@ -39,6 +53,12 @@ Used various backend & frontend frameworks, libs & tools including:
 ### Baseline Solutions, Senior Software Engineer
 
 2003 - 2011
+
+I worked as a both a full-stack developer and a business analyst responsible for working with
+clients to define requirements and to deliver their product.  This role involved developing
+MVPs for people with business ideas as well as long term projects to support government based consulting work.
+
+#### Key Technologies:
 
  - PHP, jQuery, PEAR, Zend Framework
 
