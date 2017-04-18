@@ -20,6 +20,13 @@ junior developers.
 
 React, Redux, Angular, Django, Hapi (Node), PostgreSQL, Celery, Redis, GraphQL, Relay, Bootstrap, SASS, BEM
 
+#### Notable Projects
+
+ - Rebuild the client-facting frontend and web server components for the Aussie Farmers Direct eCommerce platform
+   using React, Redux, Bootstrap & Django.
+ - Frontend development for touchscreen for a medical device.  Implemented with Angular.
+
+
 ### Freelancing, various clients
 
 2011 - 2015
@@ -49,6 +56,11 @@ Used various backend & frontend frameworks, libs & tools including:
  - Frontend:
    - Bootstrap 
    - SASS
+   
+#### Notable Projects
+
+ - "Coles Value Hunter" a proof-of-concept iPhone app for finding on-sale & discounted items for Coles supermarket (store specific).  Written with Angular, Bootstrap & PhoneGap.
+ - Implemented improved frontend for searching & browsing Slater & Gordon's document management system.  Written in Angular & Bootstrap.
 
 ### Baseline Solutions, Senior Software Engineer
 
