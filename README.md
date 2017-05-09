@@ -87,7 +87,7 @@ to the open source community.
 
 ## Open Source Contributions
 
- - Django: minor documentation updates, freenode/#django assistance
+ - Django: minor documentation updates & freenode/#django assistance (nick: shangxiao)
  - OpenMRS: module contribution
  - PEAR: authored various packages
 
