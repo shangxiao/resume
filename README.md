@@ -97,7 +97,8 @@ to the open source community.
 
 ## Example work
 
-All example work can either be found in my GitHub profile or any open source projects that I have contributed to for Common Code:
+All example work can either be found in my GitHub profile, a few selected repositories are listed below:
 
  - GitHub profile: https://github.com/rapilabs
- - "Djello", A Trello clone written in Django: https://github.com/commoncode/djello
+ - "Djello", A Trello clone written in Django: https://github.com/rapilabs/djello
+ - A typical React/Django example: https://github.com/rapilabs/django-shopfront
