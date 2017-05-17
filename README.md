@@ -4,7 +4,7 @@
 
 ### Common Code: Senior Software Engineer
 
-Sept 2015 - present
+Sept 2015 - April 2017
 
 Worked on various projects from e-commerce sites to front ends for medical devices.
 Most of our projects are managed as agile (or at least striving to maintain some
