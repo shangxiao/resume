@@ -60,7 +60,7 @@ Used various backend & frontend frameworks, libs & tools including:
 #### Notable Projects
 
  - "Coles Value Hunter" a proof-of-concept iPhone app for finding on-sale & discounted items for Coles supermarket (store specific).  Written with Angular, Bootstrap & PhoneGap.
- - Implemented improved frontend for searching & browsing Slater & Gordon's document management system.  Written in Angular & Bootstrap.
+ - Implemented improved frontend for searching & browsing Corrs Chambers Westgarth's document management system.  Written in Angular & Bootstrap.
 
 ### Baseline Solutions, Senior Software Engineer
 
