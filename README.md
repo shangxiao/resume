@@ -2,6 +2,25 @@
 
 ## Employment History
 
+### Common Code: Software Developer (Contractor)
+
+November 2017 - January 2018
+
+Assisted in maintenance of various projects involving Django & Node (Hapi).
+
+### Everproof: Software Developer (Contractor)
+
+July 2017 - November 2017
+
+Started work on the backend Everproof's rework of their verification platform with Django & PostgreSQL.
+This involved lengthy design discussions with the CTO and other developers on the database & REST api design.
+
+Some noteworthy features implemented:
+
+- Implementation of organisational trees in a relational database via recursive subqueries
+- Database level constraints via https://github.com/rapilabs/django-db-constraints
+- Postgres specific database audit trail adapted from Matt Schinckel's [`django.postgres`](https://bitbucket.org/schinckel/django-postgres/src/7792ba7443880cd7ed7fa4418d64524fefbc53e5/postgres/?at=default)
+
 ### Common Code: Senior Software Engineer
 
 Sept 2015 - April 2017
