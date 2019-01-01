@@ -2,6 +2,17 @@
 
 ## Employment History
 
+
+### Alliance Software: Senior Software Developer
+
+May 2018 - Current
+
+Developed systems in Python, Django & PostgreSQL
+
+ - Maintainance & further implementation additions to a legacy project with various technologies across different application compoonents (Django templates + Vue.js, DRF + React).  Involved converting a component from Django admin to a custom admin interface.
+ - Assisting developers of various experience with technical questions on Django, Python & PostgreSQL
+ - Delivering presentations/writing up tips on Slack on Django, Python & PostgreSQL
+
 ### Common Code: Software Developer (Contractor)
 
 November 2017 - January 2018
