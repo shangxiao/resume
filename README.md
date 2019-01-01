@@ -132,4 +132,5 @@ All example work can either be found in my GitHub profile, a few selected reposi
  - GitHub profile: https://github.com/rapilabs
  - "Djello", A Trello clone written in Django: https://github.com/rapilabs/djello
  - A typical React/Django example: https://github.com/rapilabs/django-shopfront
- - "rigrr" A BPMN editor written with Google Web Toolkit, implemented with SVG: http://rigrr.rapilabs.com
+ - Python package to make adding table-level database constraints to Django models a little easier: 
+https://github.com/rapilabs/django-db-constraints
