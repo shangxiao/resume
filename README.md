@@ -29,7 +29,7 @@ This involved lengthy design discussions with the CTO and other developers on th
 Some noteworthy features implemented:
 
 - Implementation of organisational trees in a relational database via recursive subqueries
-- Database level constraints via https://github.com/rapilabs/django-db-constraints
+- Database level constraints via https://github.com/shangxiao/django-db-constraints
 - Postgres specific database audit trail adapted from Matt Schinckel's [`django.postgres`](https://bitbucket.org/schinckel/django-postgres/src/7792ba7443880cd7ed7fa4418d64524fefbc53e5/postgres/?at=default)
 
 ### Common Code: Senior Software Engineer
@@ -129,8 +129,8 @@ to the open source community.
 
 All example work can either be found in my GitHub profile, a few selected repositories are listed below:
 
- - GitHub profile: https://github.com/rapilabs
- - "Djello", A Trello clone written in Django: https://github.com/rapilabs/djello
- - A typical React/Django example: https://github.com/rapilabs/django-shopfront
+ - GitHub profile: https://github.com/shangxiao
+ - "Djello", A Trello clone written in Django & used as a learning aide: https://github.com/shangxiao/djello
+ - A typical React/Django example: https://github.com/shangxiao/django-shopfront
  - Python package to make adding table-level database constraints to Django models a little easier: 
-https://github.com/rapilabs/django-db-constraints
+https://github.com/shangxiao/django-db-constraints
