@@ -1,5 +1,7 @@
 # Resume: David Sanders
 
+https://github.com/shangxiao/resume/
+
 ## Developer Profile
 
 I'm a developer who loves working with open source and giving back to the open source community.  You may find me hanging around #django on freenode answering questions on Django.  I mainly work with Python/Django/Postgres/React but I've always liked to explore new horizons and am not limited to the Django realm :)  I'm also currently re-learning functional programming through Haskell with a view to exploring Elm, Reason, Clojure or Scala.
