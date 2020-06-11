@@ -15,6 +15,7 @@ May 2018 - Current
 
 Developing systems in Python, Django, PostgreSQL & React.
 
+ - Consulting for the Bureau of Meteorology: Working on the AWRA-CMS project modelling landscape waterflow on their in-house supercomputers. Includes helping the existing team of developers improve their software development processes & practices.
  - Consulting for previous client: maintaining an existing Django/React stack while also assisting in the crossover to a serverless, microservice, event-sourced architecture while also transitioning to a continuous deployment process with trunk-based development.
  - Setup & run a commercial project while teaching programmers how to work with Django, PostgeSQL, React along with HTML/CSS & friends.
  - Maintainance & further implementation additions to a legacy project with various technologies across different application compoonents (Django templates + Vue.js, DRF + React).  Involved converting a component from Django admin to a custom admin interface.
