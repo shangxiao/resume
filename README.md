@@ -39,7 +39,7 @@ Some noteworthy features implemented:
 
 - Implementation of organisational trees in a relational database via recursive subqueries
 - Database level constraints via https://github.com/shangxiao/django-db-constraints
-- Postgres specific database audit trail adapted from Matt Schinckel's [`django.postgres`](https://bitbucket.org/schinckel/django-postgres/src/7792ba7443880cd7ed7fa4418d64524fefbc53e5/postgres/?at=default)
+- Postgres specific database audit trail adapted from Matt Schinckel's [`django-postgres`](https://bitbucket.org/schinckel/django-postgres/src/7792ba7443880cd7ed7fa4418d64524fefbc53e5/postgres/?at=default)
 
 ### Common Code: Senior Software Engineer
 
