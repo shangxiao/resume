@@ -10,6 +10,8 @@ In the web development world I tend to value [simplicity over complexity](https:
 
 I love testing, albeit with a somewhat controversial approach of [preferring integration testing over unit testing](https://kentcdodds.com/blog/write-tests). I find TDD useful but not required. I value coverage but I also recognise that it should be more of a [guide than a goal](https://martinfowler.com/bliki/TestCoverage.html). Testing strategy depends on the circumstances.
 
+Finally, I rather enjoy teaching people (and learning myself) - especially the things that only come with experience.  I value the roles that pair-programming, impromptu discussions and merge requests have in providing an opportunity to convey these experiences.
+
 
 ## Employment History
 
