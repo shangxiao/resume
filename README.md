@@ -19,7 +19,7 @@ Finally, I rather enjoy teaching people (and learning myself) - especially the t
 
 May 2018 - Current
 
-Developing systems in Python, Django, PostgreSQL & React.
+Developing web systems in Python, Django, PostgreSQL & React / Scientific applications in NumPy, Pandas & HPC.
 
  - Consulting for the Bureau of Meteorology: Working on the AWRA-CMS project modelling landscape waterflow on their in-house supercomputers using scientific programming methods & tools. Includes helping the existing team of developers improve their software development processes & practices.
  - Consulting for previous client: maintaining an existing Django/React stack while also assisting in the crossover to a serverless, microservice, event-sourced architecture while also transitioning to a continuous deployment process with trunk-based development.
