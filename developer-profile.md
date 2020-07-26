@@ -9,3 +9,11 @@ Some advantages are:
 *  Manageable chunks to review
 *  Bisectability
 *  Original intent discoverability
+*  Deployability
+
+I extend this theory to also require that commits be "atomic", meaning that there are certain rules as to how far you can break up commits.  Generally commits should not break things, providing some guarantees to the above features.  This includes:
+*  Compileability/parseability
+*  Tests
+*  Features
+*  Type checks
+*  Optionally, lint checks
