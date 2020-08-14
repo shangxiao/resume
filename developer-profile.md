@@ -17,3 +17,11 @@ I extend this theory to also require that commits be "atomic", meaning that ther
 *  Features
 *  Type checks
 *  Optionally, lint checks
+
+## Accessibility
+
+Accessibility is something that I find extremely important.  I find that in frontend development, if we stick to basics and don't try to get too tricky we can already be well on the way to an accessible application.  Some basic things that we can do as frontend devs to help with accessibility:
+
+* Don't disable the browser's outline feature, ie don't do: `outline: none` unless you have a suitable replacement.  http://www.outlinenone.com/
+* Don't rely on mouse-only interactive elements like clickable divs.  Use a native widget like a button or an anchor styled appropriately to suit your design.
+* Use form elements when creating forms.
