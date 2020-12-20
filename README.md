@@ -132,9 +132,10 @@ MVPs for people with business ideas as well as long term projects to support gov
 
 ## Open Source Contributions
 
- - Django: minor documentation updates & freenode/#django assistance (nick: shangxiao)
+ - Python package to convert functions into CLIs by using its signature to define argparse arguments: https://github.com/shangxiao/bargeparse
  - Python package to make adding table-level database constraints to Django models a little easier: 
 https://github.com/shangxiao/django-db-constraints
+ - Django: minor documentation updates & freenode/#django assistance (nick: shangxiao)
  - OpenMRS: module contribution
  - PEAR: authored various packages
 
