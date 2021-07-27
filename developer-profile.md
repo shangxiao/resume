@@ -9,9 +9,11 @@ Some advantages are:
 *  Manageable chunks to review
 *  Bisectability
 *  Original intent discoverability
-*  Deployability
+*  Deployability (potential to deploy from any commit)
+*  Traceability
+*  Ability to cherry-pick or revert isolated fixes/features
 
-I extend this theory to also require that commits be "atomic", meaning that there are certain rules as to how far you can break up commits.  Generally commits should not break things, providing some guarantees to the above features.  This includes:
+I extend this theory to also require that commits be "atomic", meaning that you don't want to include too many fixes or features (ideally only 1) but also that there are certain rules as to how far you can break up commits.  Generally commits should not break things, providing some guarantees to the above features.  This includes:
 *  Compileability/parseability
 *  Tests
 *  Features
