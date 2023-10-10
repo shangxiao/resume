@@ -4,7 +4,11 @@ https://github.com/shangxiao/resume/
 
 ## Developer Profile
 
-I'm a developer who loves working with open source and giving back to the open source community.  You may find me hanging around #django on freenode answering questions on Django.  I mainly work with Python/Django/Postgres/React but I've always liked to explore new horizons and am not limited to the Django realm.  I'm also currently re-learning functional programming through Haskell with a view to exploring Elm, Reason, Clojure or Scala and also feeding this back into my Python development.
+I'm a developer specialising in Python, Django & PostgreSQL.
+
+I'm a member of the [Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/) & am currently part of the [Triage & Review Team](https://www.djangoproject.com/foundation/teams/#triage-review-team).  I love working with open source and giving back to the open source community.
+
+Although I mainly work with Python/Django/Postgres/React but I've always liked to explore new horizons and am not limited to the Django realm.  I'm also currently re-learning functional programming through Haskell with a view to exploring Elm, Reason, Clojure or Scala and also feeding this back into my Python development.
 
 In the web development world I tend to value [simplicity over complexity](https://en.wikipedia.org/wiki/Zen_of_Python), [boring over exciting](https://mcfunley.com/choose-boring-technology) and [readability/maintainability over optimised](https://en.wikiquote.org/wiki/Donald_Knuth#Computer_Programming_as_an_Art_(1974)). I'm a fan of [YAGNI - You Aren't Gunna Need It (yet)](https://en.wikipedia.org/wiki/You_aren't_gonna_need_it) which encourages simple designs to satisfy initial business requirements with a view to enhancing later once necessity has been established. My methods may seem counterintuitive, such as [delaying DRYness](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction), but these approaches have been curated from experience. I also tend to avoid over-commenting code, focusing on the WHY rather than the WHAT and readable, self-documenting code. I find that Python is great for this. Although I find scalable architectures & microservices interesting, the [Monolithic architecture](https://changelog.com/posts/monoliths-are-the-future) with proven frameworks such as Django are my go-to.
 
@@ -20,6 +24,8 @@ Finally, I rather enjoy teaching people (and learning myself) - especially the t
 May 2018 - Current
 
 Developing web systems in Python, Django, PostgreSQL & React / Scientific applications in NumPy, Pandas & HPC.
+
+I currently am assisting a client getting their Django based platform up to full speed but have also done the following:
 
  - Consulting for the Bureau of Meteorology: Working on the AWRA-CMS project modelling landscape waterflow on their in-house supercomputers using scientific programming methods & tools. Includes helping the existing team of developers improve their software development processes & practices.
  - Consulting for previous client: maintaining an existing Django/React stack while also assisting in the crossover to a serverless, microservice, event-sourced architecture while also transitioning to a continuous deployment process with trunk-based development.
