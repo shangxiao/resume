@@ -154,5 +154,6 @@ https://github.com/shangxiao/django-db-constraints
 All example work can either be found in my GitHub profile, a few selected repositories are listed below:
 
  - GitHub profile: https://github.com/shangxiao
+ - "Stupid Django Tricks": An adventure into seeing how far we can push the ORM: https://github.com/shangxiao/stupid-django-tricks
  - "Djello", A Trello clone written in Django & used as a learning aide to show new programmers how far you can get without using an SPA: https://github.com/shangxiao/djello
  - A typical React/Django example (albeit from 2017): https://github.com/shangxiao/django-shopfront
