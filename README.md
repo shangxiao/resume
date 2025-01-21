@@ -27,10 +27,11 @@ Developing web systems in Python, Django, PostgreSQL & React / Scientific applic
 
 I currently am assisting a client getting their Django based platform up to full speed but have also done the following:
 
+ - Setup & runing commercial projects while teaching programmers how to work with Django, PostgeSQL, React along with HTML/CSS & friends.
  - Consulting for the Bureau of Meteorology: Working on the AWRA-CMS project modelling landscape waterflow on their in-house supercomputers using scientific programming methods & tools. Includes helping the existing team of developers improve their software development processes & practices.
  - Consulting for previous client: maintaining an existing Django/React stack while also assisting in the crossover to a serverless, microservice, event-sourced architecture while also transitioning to a continuous deployment process with trunk-based development.
- - Setup & run a commercial project while teaching programmers how to work with Django, PostgeSQL, React along with HTML/CSS & friends.
  - Maintainance & further implementation additions to a legacy project with various technologies across different application compoonents (Django templates + Vue.js, DRF + React).  Involved converting a component from Django admin to a custom admin interface.
+ - Organising & running a weekly developer catchup with presentations, demonstrations, hands-on programming sessions, news.
  - Assisting developers of various experience with technical questions on Django, Python & PostgreSQL.
  - Delivering presentations/writing up tips on Slack on Django, Python & PostgreSQL.
 
