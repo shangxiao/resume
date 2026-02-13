@@ -25,6 +25,16 @@ May 2018 - Current
 
 Developing web systems in Python, Django, PostgreSQL & React / Scientific applications in NumPy, Pandas & HPC.
 
+#### Key Technologies
+
+ - Python, Django & PostgreSQL
+ - React, Vue.js, JavaScript, CSS/Less, HTMX
+ - MariaDB & MySQL
+ - AWS, EC2, RDS, S3, lambda, API Gateway, Cloudwatch and others
+ - NumPy, Pandas, HPC (supercomputers)
+
+#### Summary
+
 I currently am assisting a client getting their Django based platform up to full speed but have also done the following:
 
  - Setup & runing commercial projects while teaching programmers how to work with Django, PostgeSQL, React along with HTML/CSS & friends.
